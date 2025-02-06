@@ -31,7 +31,8 @@ The **Weather Analysis Project** provides deep insights into global weather cond
 
 ## 🛠️ Tech Stack
 - **Microsoft Power BI** (for data visualization)
-- **Microsoft Excel** (for data analysis)
+- **Microsoft Excel** (for data analysis and visualisation)
+- **SQL**(for extracting required data to excel based on the problem statement)
 - **Data Sources**: Global weather datasets
 
 ## 📁 Project Structure
