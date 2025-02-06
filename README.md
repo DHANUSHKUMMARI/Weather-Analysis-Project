@@ -14,6 +14,28 @@ Here’s a README file for your **Weather Analysis Project** that you can use fo
 ## 📌 Overview
 The **Weather Analysis Project** provides deep insights into global weather conditions using **Power BI** and **Excel** reports. It includes detailed visualizations and trend analyses of various weather parameters like temperature, humidity, pressure, wind speed, and extreme weather events.
 
+The following countries are represented in the data:
+
+- Canada
+- United States
+- Israel
+
+## Dimension Table
+
+| City           | Country       | Latitude  | Longitude  |
+|----------------|---------------|-----------|------------|
+| Vancouver      | Canada        | 49.24966  | -123.119339|
+| Portland       | United States | 45.523449 | -122.676208|
+| San Francisco  | United States | 37.774929 | -122.419418|
+| Tel Aviv       | Israel        | 32.083328 | 34.799999  |
+| Beersheba      | Israel        | 31.25181  | 34.791302  |
+| Los Angeles    | United States | 34.052231 | -118.243683|
+| Toronto        | Canada        | 43.700111 | -79.416298 |
+| Eilat          | Israel        | 29.55805  | 34.948212  |
+| Montreal       | Canada        | 45.508839 | -73.587807 |
+| Miami          | United States | 25.774269 | -80.193657 |
+
+
 ## 🔍 Key Features
 - **Correlation Analysis**: Relationship between **humidity, temperature, pressure, wind speed, and direction**.
 - **Outlier Detection**: Identifies unusually high or low humidity levels indicating abnormal weather conditions.
